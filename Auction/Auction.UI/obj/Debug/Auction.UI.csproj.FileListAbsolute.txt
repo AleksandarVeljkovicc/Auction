@@ -1,0 +1,104 @@
+D:\Backup fajlovi\Auction\Auction\Auction.UI\obj\Debug\Auction.UI.csproj.AssemblyReference.cache
+D:\Backup fajlovi\Auction\Auction\Auction.UI\obj\Debug\Auction.UI.csproj.SuggestedBindingRedirects.cache
+D:\Backup fajlovi\Auction\Auction\Auction.UI\obj\Debug\MainWindow.g.cs
+D:\Backup fajlovi\Auction\Auction\Auction.UI\obj\Debug\App.g.cs
+D:\Backup fajlovi\Auction\Auction\Auction.UI\obj\Debug\Auction.UI_MarkupCompile.cache
+D:\Backup fajlovi\Auction\Auction\Auction.UI\obj\Debug\Auction.UI_MarkupCompile.lref
+D:\Backup fajlovi\Auction\Auction\Auction.UI\bin\Debug\Auction.UI.exe.config
+D:\Backup fajlovi\Auction\Auction\Auction.UI\bin\Debug\Auction.UI.exe
+D:\Backup fajlovi\Auction\Auction\Auction.UI\bin\Debug\Auction.UI.pdb
+D:\Backup fajlovi\Auction\Auction\Auction.UI\bin\Debug\Auction.Model.dll
+D:\Backup fajlovi\Auction\Auction\Auction.UI\bin\Debug\Auction.ViewModel.dll
+D:\Backup fajlovi\Auction\Auction\Auction.UI\bin\Debug\Auction.Model.pdb
+D:\Backup fajlovi\Auction\Auction\Auction.UI\bin\Debug\Auction.ViewModel.pdb
+D:\Backup fajlovi\Auction\Auction\Auction.UI\obj\Debug\MainWindow.baml
+D:\Backup fajlovi\Auction\Auction\Auction.UI\obj\Debug\Auction.UI.g.resources
+D:\Backup fajlovi\Auction\Auction\Auction.UI\obj\Debug\Auction.UI.Properties.Resources.resources
+D:\Backup fajlovi\Auction\Auction\Auction.UI\obj\Debug\Auction.UI.csproj.GenerateResource.cache
+D:\Backup fajlovi\Auction\Auction\Auction.UI\obj\Debug\Auction.UI.csproj.CoreCompileInputs.cache
+D:\Backup fajlovi\Auction\Auction\Auction.UI\obj\Debug\Auction.UI.csproj.CopyComplete
+D:\Backup fajlovi\Auction\Auction\Auction.UI\obj\Debug\Auction.UI.exe
+D:\Backup fajlovi\Auction\Auction\Auction.UI\obj\Debug\Auction.UI.pdb
+D:\Backup fajlovi\Auction\Auction\Auction.UI\obj\Debug\NewProduct.g.cs
+D:\Backup fajlovi\Auction\Auction\Auction.UI\obj\Debug\NewProduct.baml
+D:\Backup fajlovi\Auction\Auction\Auction.UI\obj\Debug\App.baml
+D:\Backup fajlovi\Auction\Auction\Auction.UI\obj\Debug\LoginWindow.g.cs
+D:\Backup fajlovi\Auction\Auction\Auction.UI\obj\Debug\LoginWindow.baml
+D:\IT\Projects for github\Auction\Auction.UI\bin\Debug\Auction.UI.exe.config
+D:\IT\Projects for github\Auction\Auction.UI\bin\Debug\Auction.UI.exe
+D:\IT\Projects for github\Auction\Auction.UI\bin\Debug\Auction.UI.pdb
+D:\IT\Projects for github\Auction\Auction.UI\bin\Debug\Auction.Model.dll
+D:\IT\Projects for github\Auction\Auction.UI\bin\Debug\Auction.ViewModel.dll
+D:\IT\Projects for github\Auction\Auction.UI\bin\Debug\Auction.Model.pdb
+D:\IT\Projects for github\Auction\Auction.UI\bin\Debug\Auction.ViewModel.pdb
+D:\IT\Projects for github\Auction\Auction.UI\obj\Debug\Auction.UI.csproj.AssemblyReference.cache
+D:\IT\Projects for github\Auction\Auction.UI\obj\Debug\Auction.UI.csproj.SuggestedBindingRedirects.cache
+D:\IT\Projects for github\Auction\Auction.UI\obj\Debug\LoginWindow.g.cs
+D:\IT\Projects for github\Auction\Auction.UI\obj\Debug\MainWindow.g.cs
+D:\IT\Projects for github\Auction\Auction.UI\obj\Debug\NewProduct.g.cs
+D:\IT\Projects for github\Auction\Auction.UI\obj\Debug\App.g.cs
+D:\IT\Projects for github\Auction\Auction.UI\obj\Debug\Auction.UI_MarkupCompile.cache
+D:\IT\Projects for github\Auction\Auction.UI\obj\Debug\Auction.UI_MarkupCompile.lref
+D:\IT\Projects for github\Auction\Auction.UI\obj\Debug\App.baml
+D:\IT\Projects for github\Auction\Auction.UI\obj\Debug\LoginWindow.baml
+D:\IT\Projects for github\Auction\Auction.UI\obj\Debug\MainWindow.baml
+D:\IT\Projects for github\Auction\Auction.UI\obj\Debug\NewProduct.baml
+D:\IT\Projects for github\Auction\Auction.UI\obj\Debug\Auction.UI.g.resources
+D:\IT\Projects for github\Auction\Auction.UI\obj\Debug\Auction.UI.Properties.Resources.resources
+D:\IT\Projects for github\Auction\Auction.UI\obj\Debug\Auction.UI.csproj.GenerateResource.cache
+D:\IT\Projects for github\Auction\Auction.UI\obj\Debug\Auction.UI.csproj.CoreCompileInputs.cache
+D:\IT\Projects for github\Auction\Auction.UI\obj\Debug\Auction.UI.csproj.CopyComplete
+D:\IT\Projects for github\Auction\Auction.UI\obj\Debug\Auction.UI.exe
+D:\IT\Projects for github\Auction\Auction.UI\obj\Debug\Auction.UI.pdb
+C:\Users\PC\Desktop\Auction\Auction.UI\bin\Debug\Auction.UI.exe.config
+C:\Users\PC\Desktop\Auction\Auction.UI\bin\Debug\Auction.UI.exe
+C:\Users\PC\Desktop\Auction\Auction.UI\bin\Debug\Auction.UI.pdb
+C:\Users\PC\Desktop\Auction\Auction.UI\bin\Debug\Auction.Model.dll
+C:\Users\PC\Desktop\Auction\Auction.UI\bin\Debug\Auction.ViewModel.dll
+C:\Users\PC\Desktop\Auction\Auction.UI\bin\Debug\Auction.Model.pdb
+C:\Users\PC\Desktop\Auction\Auction.UI\bin\Debug\Auction.ViewModel.pdb
+C:\Users\PC\Desktop\Auction\Auction.UI\obj\Debug\Auction.UI.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Auction\Auction.UI\obj\Debug\LoginWindow.g.cs
+C:\Users\PC\Desktop\Auction\Auction.UI\obj\Debug\MainWindow.g.cs
+C:\Users\PC\Desktop\Auction\Auction.UI\obj\Debug\NewProduct.g.cs
+C:\Users\PC\Desktop\Auction\Auction.UI\obj\Debug\App.g.cs
+C:\Users\PC\Desktop\Auction\Auction.UI\obj\Debug\Auction.UI_MarkupCompile.cache
+C:\Users\PC\Desktop\Auction\Auction.UI\obj\Debug\Auction.UI_MarkupCompile.lref
+C:\Users\PC\Desktop\Auction\Auction.UI\obj\Debug\App.baml
+C:\Users\PC\Desktop\Auction\Auction.UI\obj\Debug\LoginWindow.baml
+C:\Users\PC\Desktop\Auction\Auction.UI\obj\Debug\MainWindow.baml
+C:\Users\PC\Desktop\Auction\Auction.UI\obj\Debug\NewProduct.baml
+C:\Users\PC\Desktop\Auction\Auction.UI\obj\Debug\Auction.UI.g.resources
+C:\Users\PC\Desktop\Auction\Auction.UI\obj\Debug\Auction.UI.Properties.Resources.resources
+C:\Users\PC\Desktop\Auction\Auction.UI\obj\Debug\Auction.UI.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Auction\Auction.UI\obj\Debug\Auction.UI.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Auction\Auction.UI\obj\Debug\Auction.UI.csproj.CopyComplete
+C:\Users\PC\Desktop\Auction\Auction.UI\obj\Debug\Auction.UI.exe
+C:\Users\PC\Desktop\Auction\Auction.UI\obj\Debug\Auction.UI.pdb
+C:\Users\PC\Desktop\Auction\Auction.UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\IT\Svastara\Projects for github\Auction\Auction.UI\bin\Debug\Auction.UI.exe.config
+C:\IT\Svastara\Projects for github\Auction\Auction.UI\bin\Debug\Auction.UI.exe
+C:\IT\Svastara\Projects for github\Auction\Auction.UI\bin\Debug\Auction.UI.pdb
+C:\IT\Svastara\Projects for github\Auction\Auction.UI\bin\Debug\Auction.Model.dll
+C:\IT\Svastara\Projects for github\Auction\Auction.UI\bin\Debug\Auction.ViewModel.dll
+C:\IT\Svastara\Projects for github\Auction\Auction.UI\bin\Debug\Auction.Model.pdb
+C:\IT\Svastara\Projects for github\Auction\Auction.UI\bin\Debug\Auction.ViewModel.pdb
+C:\IT\Svastara\Projects for github\Auction\Auction.UI\obj\Debug\Auction.UI.csproj.AssemblyReference.cache
+C:\IT\Svastara\Projects for github\Auction\Auction.UI\obj\Debug\LoginWindow.g.cs
+C:\IT\Svastara\Projects for github\Auction\Auction.UI\obj\Debug\MainWindow.g.cs
+C:\IT\Svastara\Projects for github\Auction\Auction.UI\obj\Debug\NewProduct.g.cs
+C:\IT\Svastara\Projects for github\Auction\Auction.UI\obj\Debug\App.g.cs
+C:\IT\Svastara\Projects for github\Auction\Auction.UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\IT\Svastara\Projects for github\Auction\Auction.UI\obj\Debug\Auction.UI_MarkupCompile.cache
+C:\IT\Svastara\Projects for github\Auction\Auction.UI\obj\Debug\Auction.UI_MarkupCompile.lref
+C:\IT\Svastara\Projects for github\Auction\Auction.UI\obj\Debug\App.baml
+C:\IT\Svastara\Projects for github\Auction\Auction.UI\obj\Debug\LoginWindow.baml
+C:\IT\Svastara\Projects for github\Auction\Auction.UI\obj\Debug\MainWindow.baml
+C:\IT\Svastara\Projects for github\Auction\Auction.UI\obj\Debug\NewProduct.baml
+C:\IT\Svastara\Projects for github\Auction\Auction.UI\obj\Debug\Auction.UI.g.resources
+C:\IT\Svastara\Projects for github\Auction\Auction.UI\obj\Debug\Auction.UI.Properties.Resources.resources
+C:\IT\Svastara\Projects for github\Auction\Auction.UI\obj\Debug\Auction.UI.csproj.GenerateResource.cache
+C:\IT\Svastara\Projects for github\Auction\Auction.UI\obj\Debug\Auction.UI.csproj.CoreCompileInputs.cache
+C:\IT\Svastara\Projects for github\Auction\Auction.UI\obj\Debug\Auction.UI.csproj.CopyComplete
+C:\IT\Svastara\Projects for github\Auction\Auction.UI\obj\Debug\Auction.UI.exe
+C:\IT\Svastara\Projects for github\Auction\Auction.UI\obj\Debug\Auction.UI.pdb

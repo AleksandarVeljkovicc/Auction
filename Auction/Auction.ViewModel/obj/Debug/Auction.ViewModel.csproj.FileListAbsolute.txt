@@ -1,0 +1,68 @@
+D:\Backup fajlovi\Auction\Auction\Auction.ViewModel\bin\Debug\Auction.ViewModel.dll
+D:\Backup fajlovi\Auction\Auction\Auction.ViewModel\bin\Debug\Auction.ViewModel.pdb
+D:\Backup fajlovi\Auction\Auction\Auction.ViewModel\bin\Debug\Auction.Model.dll
+D:\Backup fajlovi\Auction\Auction\Auction.ViewModel\bin\Debug\Auction.Model.pdb
+D:\Backup fajlovi\Auction\Auction\Auction.ViewModel\obj\Debug\Auction.ViewModel.csproj.AssemblyReference.cache
+D:\Backup fajlovi\Auction\Auction\Auction.ViewModel\obj\Debug\Auction.ViewModel.csproj.CoreCompileInputs.cache
+D:\Backup fajlovi\Auction\Auction\Auction.ViewModel\obj\Debug\Auction.ViewModel.csproj.CopyComplete
+D:\Backup fajlovi\Auction\Auction\Auction.ViewModel\obj\Debug\Auction.ViewModel.dll
+D:\Backup fajlovi\Auction\Auction\Auction.ViewModel\obj\Debug\Auction.ViewModel.pdb
+D:\Backup fajlovi\Auction\Auction\Auction.ViewModel\obj\Debug\Custom_controls\BindablePasswordBox.g.cs
+D:\Backup fajlovi\Auction\Auction\Auction.ViewModel\obj\Debug\Auction.ViewModel_MarkupCompile.cache
+D:\Backup fajlovi\Auction\Auction\Auction.ViewModel\obj\Debug\Auction.ViewModel_MarkupCompile.lref
+D:\Backup fajlovi\Auction\Auction\Auction.ViewModel\obj\Debug\Custom_controls\BindablePasswordBox.baml
+D:\Backup fajlovi\Auction\Auction\Auction.ViewModel\obj\Debug\Auction.ViewModel.g.resources
+D:\Backup fajlovi\Auction\Auction\Auction.ViewModel\bin\Debug\System.Management.Automation.dll
+D:\Backup fajlovi\Auction\Auction\Auction.ViewModel\bin\Debug\Microsoft.Management.Infrastructure.dll
+D:\Backup fajlovi\Auction\Auction\Auction.ViewModel\bin\Debug\System.Management.Automation.xml
+D:\IT\Projects for github\Auction\Auction.ViewModel\bin\Debug\Auction.ViewModel.dll
+D:\IT\Projects for github\Auction\Auction.ViewModel\bin\Debug\Auction.ViewModel.pdb
+D:\IT\Projects for github\Auction\Auction.ViewModel\bin\Debug\Auction.Model.dll
+D:\IT\Projects for github\Auction\Auction.ViewModel\bin\Debug\System.Management.Automation.dll
+D:\IT\Projects for github\Auction\Auction.ViewModel\bin\Debug\Microsoft.Management.Infrastructure.dll
+D:\IT\Projects for github\Auction\Auction.ViewModel\bin\Debug\Auction.Model.pdb
+D:\IT\Projects for github\Auction\Auction.ViewModel\bin\Debug\System.Management.Automation.xml
+D:\IT\Projects for github\Auction\Auction.ViewModel\obj\Debug\Auction.ViewModel.csproj.AssemblyReference.cache
+D:\IT\Projects for github\Auction\Auction.ViewModel\obj\Debug\Custom_controls\BindablePasswordBox.g.cs
+D:\IT\Projects for github\Auction\Auction.ViewModel\obj\Debug\Auction.ViewModel_MarkupCompile.cache
+D:\IT\Projects for github\Auction\Auction.ViewModel\obj\Debug\Auction.ViewModel_MarkupCompile.lref
+D:\IT\Projects for github\Auction\Auction.ViewModel\obj\Debug\Custom_controls\BindablePasswordBox.baml
+D:\IT\Projects for github\Auction\Auction.ViewModel\obj\Debug\Auction.ViewModel.g.resources
+D:\IT\Projects for github\Auction\Auction.ViewModel\obj\Debug\Auction.ViewModel.csproj.CoreCompileInputs.cache
+D:\IT\Projects for github\Auction\Auction.ViewModel\obj\Debug\Auction.ViewModel.csproj.CopyComplete
+D:\IT\Projects for github\Auction\Auction.ViewModel\obj\Debug\Auction.ViewModel.dll
+D:\IT\Projects for github\Auction\Auction.ViewModel\obj\Debug\Auction.ViewModel.pdb
+C:\Users\PC\Desktop\Auction\Auction.ViewModel\bin\Debug\Auction.ViewModel.dll
+C:\Users\PC\Desktop\Auction\Auction.ViewModel\bin\Debug\Auction.ViewModel.pdb
+C:\Users\PC\Desktop\Auction\Auction.ViewModel\bin\Debug\Auction.Model.dll
+C:\Users\PC\Desktop\Auction\Auction.ViewModel\bin\Debug\System.Management.Automation.dll
+C:\Users\PC\Desktop\Auction\Auction.ViewModel\bin\Debug\Microsoft.Management.Infrastructure.dll
+C:\Users\PC\Desktop\Auction\Auction.ViewModel\bin\Debug\Auction.Model.pdb
+C:\Users\PC\Desktop\Auction\Auction.ViewModel\bin\Debug\System.Management.Automation.xml
+C:\Users\PC\Desktop\Auction\Auction.ViewModel\obj\Debug\Auction.ViewModel.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Auction\Auction.ViewModel\obj\Debug\Custom_controls\BindablePasswordBox.g.cs
+C:\Users\PC\Desktop\Auction\Auction.ViewModel\obj\Debug\Auction.ViewModel_MarkupCompile.cache
+C:\Users\PC\Desktop\Auction\Auction.ViewModel\obj\Debug\Auction.ViewModel_MarkupCompile.lref
+C:\Users\PC\Desktop\Auction\Auction.ViewModel\obj\Debug\Custom_controls\BindablePasswordBox.baml
+C:\Users\PC\Desktop\Auction\Auction.ViewModel\obj\Debug\Auction.ViewModel.g.resources
+C:\Users\PC\Desktop\Auction\Auction.ViewModel\obj\Debug\Auction.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Auction\Auction.ViewModel\obj\Debug\Auction.ViewModel.csproj.CopyComplete
+C:\Users\PC\Desktop\Auction\Auction.ViewModel\obj\Debug\Auction.ViewModel.dll
+C:\Users\PC\Desktop\Auction\Auction.ViewModel\obj\Debug\Auction.ViewModel.pdb
+C:\IT\Svastara\Projects for github\Auction\Auction.ViewModel\bin\Debug\Auction.ViewModel.dll
+C:\IT\Svastara\Projects for github\Auction\Auction.ViewModel\bin\Debug\Auction.ViewModel.pdb
+C:\IT\Svastara\Projects for github\Auction\Auction.ViewModel\bin\Debug\Auction.Model.dll
+C:\IT\Svastara\Projects for github\Auction\Auction.ViewModel\bin\Debug\System.Management.Automation.dll
+C:\IT\Svastara\Projects for github\Auction\Auction.ViewModel\bin\Debug\Microsoft.Management.Infrastructure.dll
+C:\IT\Svastara\Projects for github\Auction\Auction.ViewModel\bin\Debug\Auction.Model.pdb
+C:\IT\Svastara\Projects for github\Auction\Auction.ViewModel\bin\Debug\System.Management.Automation.xml
+C:\IT\Svastara\Projects for github\Auction\Auction.ViewModel\obj\Debug\Auction.ViewModel.csproj.AssemblyReference.cache
+C:\IT\Svastara\Projects for github\Auction\Auction.ViewModel\obj\Debug\Custom_controls\BindablePasswordBox.g.cs
+C:\IT\Svastara\Projects for github\Auction\Auction.ViewModel\obj\Debug\Auction.ViewModel_MarkupCompile.cache
+C:\IT\Svastara\Projects for github\Auction\Auction.ViewModel\obj\Debug\Auction.ViewModel_MarkupCompile.lref
+C:\IT\Svastara\Projects for github\Auction\Auction.ViewModel\obj\Debug\Custom_controls\BindablePasswordBox.baml
+C:\IT\Svastara\Projects for github\Auction\Auction.ViewModel\obj\Debug\Auction.ViewModel.g.resources
+C:\IT\Svastara\Projects for github\Auction\Auction.ViewModel\obj\Debug\Auction.ViewModel.csproj.CoreCompileInputs.cache
+C:\IT\Svastara\Projects for github\Auction\Auction.ViewModel\obj\Debug\Auction.ViewModel.csproj.CopyComplete
+C:\IT\Svastara\Projects for github\Auction\Auction.ViewModel\obj\Debug\Auction.ViewModel.dll
+C:\IT\Svastara\Projects for github\Auction\Auction.ViewModel\obj\Debug\Auction.ViewModel.pdb

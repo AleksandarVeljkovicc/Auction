@@ -1,0 +1,18 @@
+D:\Backup fajlovi\Auction\Auction\Auction.Model\bin\Debug\Auction.Model.dll
+D:\Backup fajlovi\Auction\Auction\Auction.Model\bin\Debug\Auction.Model.pdb
+D:\Backup fajlovi\Auction\Auction\Auction.Model\obj\Debug\Auction.Model.csproj.AssemblyReference.cache
+D:\Backup fajlovi\Auction\Auction\Auction.Model\obj\Debug\Auction.Model.csproj.CoreCompileInputs.cache
+D:\Backup fajlovi\Auction\Auction\Auction.Model\obj\Debug\Auction.Model.dll
+D:\Backup fajlovi\Auction\Auction\Auction.Model\obj\Debug\Auction.Model.pdb
+D:\IT\Projects for github\Auction\Auction.Model\bin\Debug\Auction.Model.dll
+D:\IT\Projects for github\Auction\Auction.Model\bin\Debug\Auction.Model.pdb
+D:\IT\Projects for github\Auction\Auction.Model\obj\Debug\Auction.Model.csproj.AssemblyReference.cache
+D:\IT\Projects for github\Auction\Auction.Model\obj\Debug\Auction.Model.csproj.CoreCompileInputs.cache
+D:\IT\Projects for github\Auction\Auction.Model\obj\Debug\Auction.Model.dll
+D:\IT\Projects for github\Auction\Auction.Model\obj\Debug\Auction.Model.pdb
+C:\Users\PC\Desktop\Auction\Auction.Model\bin\Debug\Auction.Model.dll
+C:\Users\PC\Desktop\Auction\Auction.Model\bin\Debug\Auction.Model.pdb
+C:\Users\PC\Desktop\Auction\Auction.Model\obj\Debug\Auction.Model.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Auction\Auction.Model\obj\Debug\Auction.Model.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Auction\Auction.Model\obj\Debug\Auction.Model.dll
+C:\Users\PC\Desktop\Auction\Auction.Model\obj\Debug\Auction.Model.pdb

@@ -1,0 +1,20 @@
+﻿<Window x:Class="Auction.UI.NewProduct"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Auction.UI"
+        mc:Ignorable="d"
+        Title="New product" Height="300" Width="300"  WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Loaded="Window_Loaded">
+
+    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+        <Label  Content="Product name"/>
+        <TextBox Name="userName"  Text="{Binding Product.Product_name, ValidatesOnNotifyDataErrors=True}" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap"  VerticalAlignment="Top" Width="165" Padding="0" Margin="0,0,0,10" >
+        </TextBox>
+        <Label  Content="Type"/>
+        <TextBox Text="{Binding Product.Product_type, ValidatesOnNotifyDataErrors=True}" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="165" Margin="0,0,0,10"/>
+        <Label  Content="Price"/>
+        <TextBox Name="priceTxtbox" Text="{Binding Product.Product_price, ValidatesOnNotifyDataErrors=True}" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="165" Margin="0,0,0,10"/>
+        <Button Command="{Binding SaveCommand}" Content="Save" Name="btnSave" HorizontalAlignment="Right"  VerticalAlignment="Top" Width="75"/>
+    </StackPanel>
+</Window>
