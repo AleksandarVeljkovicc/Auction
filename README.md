@@ -19,3 +19,4 @@ Patterns used:
 -Mediator.
 
 -Singleton.
+![Screenshot_5](https://github.com/user-attachments/assets/72604634-8a73-46ba-a11a-2291cf1eb9a8)
