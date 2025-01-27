@@ -9,13 +9,13 @@ This app has 2 users: administrator and regular user.
 
 -Administrator can add new products and remove products. Adding products will start the auction, and a timer of 2 minutes will start ticking.
 
--Regular user can offer the highest price; when he clicks on the "offer" button, the price increases by 1 euro and the timer restarts.
+-Regular user can offer the highest price, when he clicks on the "offer" button, the price increases by 1 euro and the timer restarts.
 
 When the 2-minute timer has expired, the auction ends.
 
-I didnt't make a sign-up page; the users must be added directly in the database.
+I didnt't make a sign-up page, the users must be added directly in the database.
 
-## Patterns used
+## Patterns
 
 -MVVM.
 
